@@ -63,9 +63,7 @@ npm run dev
 
 ## 🌠 Demo
 
-> Add a screenshot here if available  
-> Or link to a deployed version if hosted (e.g. Netlify, Vercel)
-
+- https://nasa-react-app01.netlify.app
 ---
 
 ## 📂 File Structure (Short Overview)
